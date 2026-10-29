@@ -1,0 +1,5 @@
+date,client,job_type,hours,labour,parts_cost,total
+2026-03-03,"Boghossian Holdings, Unit 4",install,6.0,570000,820000,1390000
+2026-03-04,Five Dock Dental,repair,2.5,200000,130000,330000
+2026-03-10,Rhodes Gym,install,8.0,760000,1250000,2010000
+2026-03-16,Ryde Warehouse,service,4.0,260000,180000,440000

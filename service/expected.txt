@@ -1,0 +1,27 @@
+Jobs read: 12
+Valid: 7
+Rejected: 5
+
+CLIENT                        TYPE       HOURS      LABOUR       PARTS       TOTAL
+Mecca Bondi                   service      1.5      97,500      45,000     142,500
+Boghossian Holdings, Unit 4   install      6.0     570,000     820,000   1,390,000
+Five Dock Dental              repair       2.5     200,000     130,000     330,000
+Concord Cafe                  service      1.0      65,000           0      65,000
+Rhodes Gym                    install      8.0     760,000   1,250,000   2,010,000
+Ryde Warehouse                service      4.0     260,000     180,000     440,000
+Chiswick House                repair       1.5     120,000      72,000     192,000
+                                                                 TOTAL   4,569,500
+
+BY JOB TYPE
+  install     14.0 h     3,400,000
+  repair       4.0 h       522,000
+  service      6.5 h       647,500
+
+Biggest job: Rhodes Gym — 2,010,000
+
+REJECTED
+  Line 5 (2026-03-06): client is empty
+  Line 6 (2026-03-09): could not convert string to float: 'abc'
+  Line 8 (2026-03-11): unknown job type: maintenance
+  Line 9 (2026-03-12): parts cost cannot be negative
+  Line 10 (2026-03-13): hours must be between 0 and 12

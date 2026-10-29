@@ -1,0 +1,13 @@
+date,client,job_type,hours,parts_cost
+2026-03-02,Mecca Bondi,service,1.5,45000
+2026-03-03,"Boghossian Holdings, Unit 4",install,6,820000
+2026-03-04,Five Dock Dental,repair,2.5,130000
+2026-03-05,Concord Cafe,SERVICE,1,0
+2026-03-06,,repair,3,95000
+2026-03-09,Mortlake Units,service,abc,60000
+2026-03-10,Rhodes Gym, Install ,8,1250000
+2026-03-11,Burwood Clinic,maintenance,2,40000
+2026-03-12,Drummoyne Office,repair,2,-5000
+2026-03-13,Strathfield Retail,install,14,900000
+2026-03-16,Ryde Warehouse,service,4,180000
+2026-03-17,Chiswick House,repair,1.5,72000

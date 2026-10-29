@@ -1,0 +1,27 @@
+{
+  "jobs_read": 12,
+  "valid": 7,
+  "rejected": 5,
+  "total_revenue": 4569500,
+  "revenue_by_type": {
+    "service": 647500,
+    "install": 3400000,
+    "repair": 522000
+  },
+  "hours_by_type": {
+    "service": 6.5,
+    "install": 14.0,
+    "repair": 4.0
+  },
+  "biggest_job": {
+    "client": "Rhodes Gym",
+    "total": 2010000
+  },
+  "rejected_lines": [
+    "Line 5 (2026-03-06): client is empty",
+    "Line 6 (2026-03-09): could not convert string to float: 'abc'",
+    "Line 8 (2026-03-11): unknown job type: maintenance",
+    "Line 9 (2026-03-12): parts cost cannot be negative",
+    "Line 10 (2026-03-13): hours must be between 0 and 12"
+  ]
+}
