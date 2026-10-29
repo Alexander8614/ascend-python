@@ -1,0 +1,12 @@
+def mystery(items):
+    result = {}
+    for item in items:
+        if item in result:
+            result[item] = result[item] + 1
+            print(result)
+        else:
+            result[item] = 1
+            print(result)
+    return result
+
+mystery(['a', 'b', 'a', 'c', 'b', 'a'])

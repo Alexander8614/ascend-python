@@ -1,0 +1,11 @@
+WEATHER REPORT
+Readings read:  6
+Valid:          4
+Rejected:       2
+Average:        20.62 C
+Highest:        23.5 C on 2026-03-06
+Lowest:         18.5 C on 2026-03-01
+
+ERRORS
+  Line 3 — could not convert string to float: 'abc'
+  Line 5 — temperature out of range
