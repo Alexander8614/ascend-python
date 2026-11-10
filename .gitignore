@@ -1,3 +1,5 @@
 .venv/
 __pycache__/
 *.log
+video_report/data/highlights.csv
+video_report/data/summary.json
